@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, UX, CSS, JavaScript**
 
-- 👯 I’m looking to collaborate on [Clon careerist.com](https://clon-careerist.netlify.app/)
-
 - 👨‍💻 All of my projects are available at [https://wilsonweb.netlify.app/](https://wilsonweb.netlify.app/)
 
 - 💬 Ask me about **CSS,JavaScript**
