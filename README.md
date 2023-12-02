@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wilson</h1>
 <h3 align="center">Soy diseñador gráfico con gusto por el diseño y el desarrollo web moderno</h3>
 
-- 🔭 I’m currently working on [Easybank frontendmentor.io](https://easybank-fmentor.netlify.app/)
+- 🔭 I’m currently working on [Boldo - Figma To Code](https://boldo-figma.netlify.app/)
 
 - 🌱 I’m currently learning **React, UX, CSS, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://wilsonweb.netlify.app/](https://wilsonweb.netlify.app/)
+- 👨‍💻 All of my projects are available at [Wilson Muñoz Castro](https://wilsonmunoz.com/)
 
 - 💬 Ask me about **CSS,JavaScript**
 
